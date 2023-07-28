@@ -1,16 +1,6 @@
-# foodpanda_seller
+# FoodPanda Flutter Clone Seller
 
-A new Flutter project.
+## General info
+FoodPanda cloned with Flutter as a frontend and Firebase as a backend. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Group 3](https://github.com/HovVathana/FoodPanda-Flutter-Clone-Seller/assets/65206951/b8f25240-7371-4465-8c8f-ccc54115a9a4)
